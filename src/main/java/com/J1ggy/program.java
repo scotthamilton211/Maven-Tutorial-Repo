@@ -1,6 +1,7 @@
-package com.J1ggy
+package com.J1ggy;
 
-public class Program {
-	public static void main(String[] args {
-		System.out.printlm("This is a Maven project");
-	}
+public class program {
+    public static void main(String[] args) {
+        System.out.println("This is a Maven project");
+    }
+}
